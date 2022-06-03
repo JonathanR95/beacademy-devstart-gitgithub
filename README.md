@@ -50,8 +50,7 @@ Veremos a baixo uma lista dos principais comandos de Git e GitHub.
     cria uma ramificação e navega para ela.
 - git branch -d <nome_da_branch> - 
     remove uma ramificação.
-- git merge <nome_da_branch> - 
-    unifica as alterações a partir da branch mais atual.
+
 
 ## Interações entre Git e GitHub
 
@@ -59,6 +58,10 @@ Veremos a baixo uma lista dos principais comandos de Git e GitHub.
     clona um repositório remoto para a sua máquina.
 - git push -
     envia as alterações da sua máquina para o repositório remoto.
+-git pull -
+    traz as modificações do servidor remoto para a máquina.
+- git merge <nome_da_branch> - 
+    unifica as alterações a partir da branch mais atual.
 
 
 
