@@ -16,6 +16,10 @@ Veremos a baixo uma lista dos principais comandos de Git e GitHub.
     remove um arquivo do repositório local.
 - git log -
     mostra o histórico de commits.
+- git log --oneline -
+    mostra o histórico de commits resumido.
+- git log -p -
+    mostra o histórico detalhado de commits.
 - git config --local user.name "nome_do_autor" -
     configura o nome do autor para o projeto.
 - git config --global user.name "nome_do_autor" -
