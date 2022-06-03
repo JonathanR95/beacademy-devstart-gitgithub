@@ -14,6 +14,18 @@ Veremos a baixo uma lista dos principais comandos de Git e GitHub.
     adiciona todos os arquivos da fila ao repositório local.
 - git rm - cached <nome_do_arquivo> -
     remove um arquivo do repositório local.
+- git log -
+    mostra o histórico de commits.
+- git config --local user.name "nome_do_autor" -
+    configura o nome do autor para o projeto.
+- git config --global user.name "nome_do_autor" -
+    configura o nome do autor na maquina.
+- git config --local user.email "email_do_autor" -
+    configura o email do autor para o projeto.
+- git config --global user.email "email_do_autor" -
+    configura o nome do autor na maquina.
+	
+    
 
 ## Ramificação
 
