@@ -20,6 +20,9 @@ Veremos a baixo uma lista dos principais comandos de Git e GitHub.
     mostra o histórico de commits resumido.
 - git log -p -
     mostra o histórico detalhado de commits.
+
+## Configurações do git
+
 - git config --local user.name "nome_do_autor" -
     configura o nome do autor para o projeto.
 - git config --global user.name "nome_do_autor" -
@@ -28,6 +31,10 @@ Veremos a baixo uma lista dos principais comandos de Git e GitHub.
     configura o email do autor para o projeto.
 - git config --global user.email "email_do_autor" -
     configura o nome do autor na maquina.
+- git config user.name -
+    mostra o nome configurado.
+- git config user.email -
+    mostra o email configurado.
 	
     
 
